@@ -1,1 +1,13 @@
-# MI_Interaction_Patterns
+# Motivational Interviewing Conversation Interaction Patterns
+
+
+
+### Authors and contributors
+
+* Jay Yu
+* Jane Hamilton
+* Tuan Amith
+
+### License
+
+The interaction patterns in this repository is released under the GPLv3 (or later) license. See license for more details.
