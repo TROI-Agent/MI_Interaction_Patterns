@@ -1,6 +1,6 @@
 # Motivational Interviewing Conversation Interaction Patterns
 
-
+** work in progress. Check back later **
 
 ### Authors and contributors
 
