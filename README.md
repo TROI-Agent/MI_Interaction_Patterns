@@ -4,9 +4,10 @@
 
 ### Authors and contributors
 
-* Jay Yu
-* Jane Hamilton
-* Tuan Amith
+* Jay Yu (University of Texas Health Science Center at Houston)
+* Jane Hamilton (University of Texas Health Science Center at Houston)
+* Tracey Ledoux (University of Houston)
+* Tuan Amith (University of Texas Medical Branch)
 
 ### License
 
